@@ -1,0 +1,54 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Ritz",
+      "address": "Lucknow"
+    },
+    {
+      "id": 3,
+      "name": "Haldirams",
+      "address": "New Delhi"
+    },
+    {
+      "id": 4,
+      "name": "BB Restaurant",
+      "address": "Vrindavan"
+    },
+    {
+      "name": "Taj",
+      "address": "Agra",
+      "id": 5
+    },
+    {
+      "name": "Hilton",
+      "address": "New Delhi",
+      "id": 6
+    },
+    {
+      "name": "BBQ",
+      "address": "Lucknow",
+      "id": 7
+    },
+    {
+      "name": "Bikaneer",
+      "address": "Faridabad",
+      "id": 10
+    },
+    {
+      "name": "Rama",
+      "address": "Faridabad",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "username": "rahul",
+      "password": "rahul"
+    },
+	{
+      "username": "vaish",
+      "password": "vaish"
+    }
+  ]
+}
